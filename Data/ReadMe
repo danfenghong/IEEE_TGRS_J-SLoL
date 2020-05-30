@@ -1,1 +1,2 @@
-The Indian Pine HS-MS data used in this paper, where MSI_IndinePine.mat and 19920612_AVIRIS_IndianPine_Site3 are the MS and HS images, and IndianTR123_temp123.tif and IndianTE123_temp123.tif are the training and test sets used in our classification evaluation. 
+The Indian Pine HS-MS data used in this paper, where "MSI_IndinePine.mat" and "19920612_AVIRIS_IndianPine_Site3" are the MS and HS images, 
+and "IndianTR123_temp123.tif" and "IndianTE123_temp123.tif" are the training and test sets used in our classification evaluation. 
