@@ -29,7 +29,7 @@ The code was tested in Matlab R2016a or higher versions on Windows 10 machines.
 How to use it?
 ---------------------
 
-Directly run demo.m to reproduce the results on the Indian Pine data, which exists in the aforementioned paper.  
+Here an example experiment is given by using Indian Pine data. Directly run demo.m to reproduce the results on the Indian Pine data, which exists in the aforementioned paper.  
 
 The funciton MS_Simulation.m can simulate the Sentinel-2 MS data used in our paper.
 
