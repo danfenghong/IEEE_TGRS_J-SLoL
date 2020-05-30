@@ -1,6 +1,6 @@
 # Spectral Superresolution of Multispectral Imagery with Joint Sparse and Low-Rank Learning 
 
-Lianru Goa, Danfeng Hong, Jing Yao, Bing Zhang, Paolo Gamba, Jocelyn Chanussot
+Lianru Gao, Danfeng Hong, Jing Yao, Bing Zhang, Paolo Gamba, Jocelyn Chanussot
 ---------------------
 
 The code in this toolbox implements the ["Spectral Superresolution of Multispectral Imagery with Joint Sparse and Low-Rank Learning"](https://ieeexplore.ieee.org/document/8672122).
