@@ -1,2 +1,4 @@
 The Indian Pine HS-MS data used in this paper, where "MSI_IndinePine.mat" and "19920612_AVIRIS_IndianPine_Site3" are the MS and HS images, 
 and "IndianTR123_temp123.tif" and "IndianTE123_temp123.tif" are the training and test sets used in our classification evaluation. 
+
+Moreover, "sentinel2.txt" is the spectral response function (SRF) of sentinel-2, which is used for simulating the corresponding MS data.
