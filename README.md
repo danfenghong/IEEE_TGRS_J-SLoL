@@ -13,14 +13,16 @@ Citation
 
 **Please kindly cite the papers if this code is useful and helpful for your research.**
 
-Lianru Gao, Danfeng Hong*, Jing Yao, Bing Zhang, Paolo Gamba, Jocelyn Chanussot. Spectral Superresolution of Multispectral Imagery with Joint Sparse and Low-Rank Learning, IEEE Transactions on Geoscience and Remote Sensing, 2020, DOI: 10.1109/TGRS. 2020.3000684.
+Lianru Gao, Danfeng Hong*, Jing Yao, Bing Zhang, Paolo Gamba, Jocelyn Chanussot. Spectral Superresolution of Multispectral Imagery with Joint Sparse and Low-Rank Learning, IEEE Transactions on Geoscience and Remote Sensing, 2021, 59(3): 2269-2280.
 
      @article{gao2020spectral,
       title     = {Spectral Superresolution of Multispectral Imagery with Joint Sparse and Low-Rank Learning},
       author    = {L. Gao and D. Hong and J. Yao and B. Zhang and P. Gamba and J. Chanussot},
       journal   = {IEEE Trans. Geosci. Remote Sens.}, 
-      year      = {2020},
-      note      = {DOI:10.1109/TGRS.2020.3000684}
+      volume    = {59},
+      number    = {3},
+      pages     = {2269--2280},
+      year      = {2021},
       publisher = {IEEE}
      }
 
